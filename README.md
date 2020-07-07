@@ -5,8 +5,13 @@ Technical Analysis Deliverable 2: Mentorship Eligibility. A table containing emp
 
 # Technical Analysis
 In your first paragraph, introduce the problem that you were using data to solve.
+Bobby’s manager would like to know how many roles will need to be filled as the “silver tsunami” begins to make an impact. They would also like to identify retirement-ready employees who qualify to mentor the next generation of Pewlett Hackard employees.
+
 In your second paragraph, summarize the steps that you took to solve the problem, as well as the challenges that you encountered along the way. This is an excellent spot to provide examples and descriptions of the code that you used.
+
+
 In your final paragraph, share the results of your analysis and discuss the data that you’ve generated. Have you identified any limitations to the analysis? What next steps would you recommend?
+
 
 # Deliverable #1
 
