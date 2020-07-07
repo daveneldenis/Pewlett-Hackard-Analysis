@@ -22,3 +22,10 @@ ti.title, ROW_NUMBER() OVER
 	WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 	 ) tmp WHERE rn = 1
 	ORDER BY emp_no;	   
+
+
+--Retirement Count using Group BY
+Select count(emp_no), title 
+INTO retirement_count
+From retiring_emp
+GROUP BY title;
